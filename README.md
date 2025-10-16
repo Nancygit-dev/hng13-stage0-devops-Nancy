@@ -1,4 +1,4 @@
-- Nancy
+- NancyL
 - Lewechi Nancy
 - This is HNG Task 0,this task is to test my ability to deploy a webserver as well as how good I can operate in a Github repository
 - My server IP
